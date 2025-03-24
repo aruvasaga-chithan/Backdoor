@@ -20,7 +20,7 @@ This project is a Python-based **reverse shell** that allows remote command exec
    ```
 2. **Run the client script on the target machine:**
    ```bash
-   python client.py
+   python backdoor.py
    ```
 3. **Available Commands:**
    - 📂 `cd <directory>` → Change working directory
